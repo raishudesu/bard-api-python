@@ -26,3 +26,6 @@ Python dotenv
 Run python script:
 
 - `python app.py`
+
+[Bard-API Repository](https://github.com/dsdanielpark/Bard-API)
+[Bard-API Documentation](https://pypi.org/project/bardapi/)
